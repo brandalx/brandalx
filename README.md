@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm brndalx</h1>
 <h3 align="center">I am a full stack engineer and UX/UI designer with expertise in developing in both front-end and back-end development. I have a strong focus on user experience and meeting business needs, and I strive to deliver fast and productive solutions. If you are seeking a professional who can fulfill your business requirements and deliver exceptional projects, please feel free to contact me.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brndalx" alt="brndalx" /></a> </p>
-
 - 🔭 I’m currently working on [Brio](https://github.com/brandalx/Brio-front-end-client)
 
 - 🌱 I’m currently learning **react native and flatter**
