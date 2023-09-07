@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm brndalx</h1>
+<h1 align="center">Hi 👋, I'm Brandon</h1>
 <h3 align="center">I am a full stack engineer and UX/UI designer with expertise in developing in both front-end and back-end development. I have a strong focus on user experience and meeting business needs, and I strive to deliver fast and productive solutions. If you are seeking a professional who can fulfill your business requirements and deliver exceptional projects, please feel free to contact me.</h3>
 
 - 🔭 I’m currently working on [Brio](https://github.com/brandalx/Brio-front-end-client)
@@ -9,24 +9,19 @@
 
 - 🤝 I’m looking for help with **studying new technologies and frameworks**
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+- 👨‍💻 All of my projects are available at [http://brandnolandev.com](portfolio link)
 
-- 📝 I regularly write articles on [linkedln link](linkedln link)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/brandonolan](linkedln link)
 
 - 💬 Ask me about **modern front-end and back-end development**
 
 - 📫 How to reach me **brndalx@gmail.com**
 
-- 📄 Know about my experiences [resume link](resume link)
+- 📄 Know about my experiences [https://brandnolandev.com/resume](resume link)
 
 - ⚡ Fun fact **Before ive got into development ive been UX/UI, 3D and Motion Designer**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-
-<h2 align="left">Hi 👋! My name is Brandon and I'm a ..., from ....</h2>
+<h2 align="left">Check out my statistics!</h2>
 
 ###
 
@@ -37,9 +32,11 @@
 
 ###
 
-  <img align="right" height="150"src="https://i.postimg.cc/QN5z03gB/Artboard-50.png"  />
-  
+<img align="right" height="150" src="https://i.postimg.cc/QN5z03gB/Artboard-50.png"  />
+
 ###
+
+<h2 align="left">Languages and tools i know:</h2>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
@@ -139,6 +136,8 @@
 
 ###
 
+<h2 align="left">Contact me:</h2>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/brandonolan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -163,5 +162,13 @@
 ###
 
 <br clear="both">
+
+<h2 align="left">Checkout my  <a href="http://brandnolandev.com/" target="_blank"> developer portfolio </a></h2>
+
+<h2 align="left">And my <a href="https://www.brandnolan.com" target="_blank"> design portfolio </a></h2>
+
+<br clear="both">
+
+<h2 align="left">Im open for job offers! </a></h2>
 
 ###
