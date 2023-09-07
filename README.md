@@ -164,6 +164,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/brandalx/brandalx/output/snake.svg" alt="Snake animation" />
-
 ###
