@@ -26,5 +26,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          committer: GitHub Actions <actions@github.com>
+          author: GitHub Actions <actions@github.com>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
