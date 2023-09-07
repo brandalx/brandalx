@@ -37,15 +37,8 @@
 
 ###
 
-
-
-
   <img align="right" height="150"src="https://i.postimg.cc/QN5z03gB/Artboard-50.png"  />
-
-
-
-
-
+  
 ###
 
 <div align="left">
