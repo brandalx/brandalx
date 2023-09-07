@@ -168,8 +168,4 @@
 
 <h2 align="left">And my <a href="https://www.brandnolan.com" target="_blank"> design portfolio </a></h2>
 
-<br clear="both">
-
-<h2 align="left">Im open for job offers! </a></h2>
-
 ###
