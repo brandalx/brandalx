@@ -3,25 +3,26 @@
 
 - 🔭 I’m currently working on [Brio](https://github.com/brandalx/Brio-front-end-client)
 
-- 🌱 I’m currently learning **react native and flatter**
+- 🌱 I’m currently learning **react native and flutter**
 
 - 👯 I’m looking to collaborate on **Interesting full stack web projects**
-
+  
 - 🤝 I’m looking for help with **studying new technologies and frameworks**
-
-- 👨‍💻 All of my projects are available at [http://brandnolandev.com](portfolio link)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/brandonolan](linkedln link)
-
+  
+- 👨‍💻 All of my projects are available at [portfolio link](http://brandnolandev.com)
+  
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/brandonolan)
+  
 - 💬 Ask me about **modern front-end and back-end development**
-
-- 📫 How to reach me **brndalx@gmail.com**
-
-- 📄 Know about my experiences [https://brandnolandev.com/resume](resume link)
-
-- ⚡ Fun fact **Before ive got into development ive been UX/UI, 3D and Motion Designer**
+  
+- 📫 How to reach me: **brndalx@gmail.com**
+  
+- 📄 Know about my experiences [resume link](https://brandnolandev.com/resume)
+  
+- ⚡ Fun fact: **Before I got into development, I've been a UX/UI, 3D, and Motion Designer**
 
 <h2 align="left">Check out my statistics!</h2>
+
 
 ###
 
