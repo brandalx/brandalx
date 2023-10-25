@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
 <h3 align="center">I am a full stack engineer and UX/UI designer with expertise in developing in both front-end and back-end development. I have a strong focus on user experience and meeting business needs, and I strive to deliver fast and productive solutions. If you are seeking a professional who can fulfill your business requirements and deliver exceptional projects, please feel free to contact me.</h3>
 
-- 🔭 I’m currently working on [My portfolio]([https://github.com/brandalx/Brio-front-end-client](https://brandnolandev.com/))
+- 🔭 I’m currently working on [My portfolio](https://brandnolandev.com)
 
 - 🌱 I’m currently learning **react native and flutter**
 
