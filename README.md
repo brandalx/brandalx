@@ -15,7 +15,9 @@
   
 - 💬 Ask me about **modern front-end and back-end development**
   
-- 📫 How to reach me: **brndalx@gmail.com**
+- 📫 How to reach me: **brandon.nolan.wisap@gmail.com**
+
+- - 📞 How to call me: **+1 437 439 3888**
   
 - 📄 Know about my experiences [resume link](https://brandnolandev.com/resume)
   
